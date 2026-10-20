@@ -25,3 +25,10 @@
 <p>
   I dont think now, but later, ill make an choice to you guys talk with me about this malware.
 </p>
+<h1>🫣 Tests in some tools:</h1>
+<p>
+  VirusTotal: https://www.virustotal.com/gui/file/308cf26c997aa42b64678a4dbfbec14d36727c64ee7fa1a477600c392bd1fef6?nocache=1
+</p>
+<p>
+  Triage: https://tria.ge/261020-1eba9aft6x/behavioral2
+</p>
